@@ -3,9 +3,9 @@
     "zotero-mcp-plugin@autoagent.my": {
       "updates": [
         {
-          "version": "1.5.1-codex.5",
-          "update_link": "https://queekye.github.io/zotero-mcp-codex-updates/releases/v1.5.1-codex.5/zotero-mcp-plugin.xpi",
-          "update_hash": "sha256:1f2e309408faf1744da055093be2e22cfc2f3520ed5307f873db0c59c6ea90e4",
+          "version": "1.5.1-codex.6",
+          "update_link": "https://queekye.github.io/zotero-mcp-codex-updates/releases/v1.5.1-codex.6/zotero-mcp-plugin.xpi",
+          "update_hash": "sha256:b2fa2f98eca42c26a7e9a2da135d3c01fd3432c83063c50fa71b68fb0f449dc8",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999",
