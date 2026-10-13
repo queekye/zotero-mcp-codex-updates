@@ -1,0 +1,18 @@
+Zotero MCP Codex / Guarded Fork
+
+This is an independently maintained customization of cookjohn/zotero-mcp:
+https://github.com/cookjohn/zotero-mcp
+Upstream source is distributed under the MIT License; the original copyright
+and permission notice is reproduced in LICENSE. Upstream author: cookjohn and
+the Zotero-MCP project contributors. Custom guarded curation and update-channel
+extensions are maintained by queekye, copyright (c) 2026 Kang Chen, under MIT.
+
+The distributed JavaScript bundles zotero-plugin-toolkit 5.1.2 by windingwind.
+Its original MIT permission and copyright notice is reproduced in
+THIRD_PARTY_LICENSES.txt. Zotero itself and its runtime-provided modules are
+external dependencies, not relicensed by this distribution.
+
+This fork is not an official Zotero or upstream Zotero-MCP release.
+Private source history and machine-specific integration scripts are not part
+of the clean public source export. Versioned XPI files expose readable compiled
+JavaScript; distributing XPI files does not keep the implementation private.
